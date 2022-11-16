@@ -81,9 +81,6 @@
       "name": "地すべり危険箇所",
       "url": "https://disaportaldata.gsi.go.jp/raster/05_jisuberikikenkasyo/{z}/{x}/{y}.png",
       "attribution": "<a href=\"https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html\">ハザードマップポータルサイト</a>"
-    },
-    {
-     
     }
   ]
 }
